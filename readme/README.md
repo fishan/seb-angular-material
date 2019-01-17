@@ -18,7 +18,7 @@ To install using NPM use this command:
 
 * in your top level style file (for ex. `styles.sass`), add SEB Material styles (lib contains both seb-mat-theme.css and seb-mat-theme.scss files):
   ```
-  @import "@sebgroup/seb-angular-material-theme/seb-mat-theme.css";
+  @import "./node_modules/@sebgroup/seb-angular-material-theme/seb-mat-theme.css";
   ```
   or add 
   ```
