@@ -2,7 +2,7 @@
 
 This is SEB theme for [Angular Material components](https://material.angular.io)
 
-[Demo app](https://sebgroup.github.io/seb-angular-materia/)
+[Demo app](https://sebgroup.github.io/seb-angular-material/)
 
 ## Installation
 
