@@ -93,6 +93,8 @@ THE SOFTWARE.
 
 @angular/material/card
 
+@angular/material/checkbox
+
 @angular/material/chips
 
 @angular/material/core
@@ -110,6 +112,8 @@ THE SOFTWARE.
 @angular/material/list
 
 @angular/material/paginator
+
+@angular/material/radio
 
 @angular/material/select
 
